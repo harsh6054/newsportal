@@ -26,6 +26,3 @@ This project displays news articles dynamically and allows admins to manage news
 ---
 
 
-
-
-
