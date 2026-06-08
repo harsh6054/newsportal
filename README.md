@@ -2,11 +2,9 @@
 
 A simple **News Portal Website** developed using **HTML, CSS, JavaScript, PHP, and MySQL**.  
 This project displays news articles dynamically and allows admins to manage news content.
-
 ---
 
 ## 🚀 Features
-
 - Dynamic news display
 - Category-wise news listing
 - Admin panel for news management
@@ -15,7 +13,6 @@ This project displays news articles dynamically and allows admins to manage news
 - Secure PHP backend
 
 ---
-
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript  
@@ -24,4 +21,3 @@ This project displays news articles dynamically and allows admins to manage news
 - **Server:** Apache (XAMPP / WAMP)
 
 ---
-
